@@ -1,0 +1,34 @@
+{
+  "needs": [
+    {
+      "id": "1",
+      "description": "Belanja Bulanan",
+      "spending": 100000,
+      "category": "Needs"
+    }
+  ],
+  "wants": [
+    {
+      "id": "195a",
+      "description": "Mac book m1 Pro",
+      "spending": "12000000",
+      "category": "wants"
+    }
+  ],
+  "urgents": [
+    {
+      "id": "ca0b",
+      "description": "Bayar UKT",
+      "spending": "1.200.000",
+      "category": "urgents"
+    }
+  ],
+  "savings": [
+    {
+      "id": "2d37",
+      "description": "rumah",
+      "spending": 100000,
+      "category": "savings"
+    }
+  ]
+}
